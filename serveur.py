@@ -1,4 +1,4 @@
-# Etudiants : Layadi et Missara
+# Etudiant : Layadi 
 import pygame
 import sys
 import random
